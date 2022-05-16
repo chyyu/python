@@ -7,6 +7,3 @@ if __name__ == "__main__":
     print(data)
     data[0][1] = 3
     print(data)  # 二级列表指向不是同一个地址
-
-
-
